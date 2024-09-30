@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This portfolio",
+      "skills": ["React", "JavaScript", "TailwindCSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/BlakeCaraballo/Portfolio"
+    },
+    {
+      "title": "SpendSmart",
+      "imageSrc": "projects/project.png",
+      "description": "A budgeting app",
+      "skills": ["React", "TypeScript", "TailwindCSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/BlakeCaraballo/SpendSmart"
+    },
+    {
+      "title": "Horizon Bank",
+      "imageSrc": "projects/project.png",
+      "description": "Banking platform",
+      "skills": ["React", "Next.js", "TailwindCSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

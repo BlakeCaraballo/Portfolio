@@ -1,0 +1,19 @@
+[
+    {
+      "role": "B.S. Computer Science",
+      "organisation": "GSU",
+      "startDate": "",
+      "endDate": "Class of 2024",
+      "experiences": ["Web Development Focused"],
+      "imageSrc": "history/GSU-nobg.png"
+    },
+    {
+      "role": "Full Stack Web Dev Intern",
+      "organisation": "TreePost",
+      "startDate": "Jan, 2022",
+      "endDate": "Jan, 2023",
+      "experiences": ["Developed UIs using React", "Maintained and developed RESTful APIs", "Maintained the backend with PostgreSQL"],
+      "imageSrc": "history/treepost.png"
+    }
+ 
+  ]
